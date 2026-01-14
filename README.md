@@ -11,35 +11,54 @@ I am a seasoned **ML Engineer and Consultant** with over 8 years of experience i
 
 ## 🧠 What I Work On
 
-- 🤖 **Generative AI & LLM Applications**
-  - Agentic AI systems
-  - HCP intelligence assistants
-  - Prompt engineering & LLM orchestration
-
-- 📊 **Data Science & Machine Learning**
-  - Predictive modeling (patient switching & targeting)
-  - Feature engineering from large-scale claims data
-  - Model explainability & business insights
-
-- 🏥 **Healthcare & Pharma Analytics**
-  - Patient journey analysis
-  - HCP targeting & alert systems
-  - Real-world data (claims, transactions)
-
-- 🛠 **Backend & AI Engineering**
-  - Python-based ML pipelines
-  - API-driven AI applications
-  - End-to-end AI product development
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🤖 Generative AI & LLM Applications</h4>
+      <ul>
+        <li>Agentic AI systems</li>
+        <li>HCP intelligence assistants</li>
+        <li>Prompt engineering & LLM orchestration</li>
+      </ul>
+      <h4>📊 Data Science & Machine Learning</h4>
+      <ul>
+        <li>Predictive modeling (patient switching & targeting)</li>
+        <li>Feature engineering from large-scale claims data</li>
+        <li>Model explainability & business insights</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🏥 Healthcare & Pharma Analytics</h4>
+      <ul>
+        <li>Patient journey analysis</li>
+        <li>HCP targeting & alert systems</li>
+        <li>Real-world data (claims, transactions)</li>
+      </ul>
+      <h4>🛠 Backend & AI Engineering</h4>
+      <ul>
+        <li>Python-based ML pipelines</li>
+        <li>API-driven AI applications</li>
+        <li>End-to-end AI product development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- **ML & MLOps:** ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![MLFlow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![KServe](https://img.shields.io/badge/KServe-blue?style=for-the-badge&logo=kubernetes)
-- **DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FFB13B?style=for-the-badge&logo=githubactions&logoColor=white)
-- **Frameworks:** ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-- **RPA:** ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **ML & MLOps** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![MLFlow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![KServe](https://img.shields.io/badge/KServe-blue?style=for-the-badge&logo=kubernetes) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FFB13B?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Frameworks** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
+| **RPA** | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) |
+
+</div>
 
 ---
 
@@ -60,19 +79,49 @@ I am a seasoned **ML Engineer and Consultant** with over 8 years of experience i
 
 ### 📈 GitHub Stats
 
-| ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM35) | ![Metrics](https://github.com/GaneshM35/GaneshM35/blob/main/github-metrics.svg) |
-| --- | --- |
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GaneshM35&theme=github-light) | ![GitHub Streak](https://streak-stats.demolab.com?user=GaneshM35) |
+<!-- GitHub Metrics - Auto-generated by GitHub Actions -->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
+<!-- Streak Stats with Dynamic Theme -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GaneshM35&theme=github-dark-blue&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=GaneshM35&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=GaneshM35&theme=default&hide_border=true">
+  </picture>
+</p>
 
-| ------------- | ------------- |
+<!-- Profile Summary Cards with Dynamic Theme -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM35&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM35&theme=default">
+    <img alt="GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM35&theme=default">
+  </picture>
+</p>
 
 ---
 
 ### 📂 Featured Projects
-* **VZone-Chat:** A communication tool developed to facilitate seamless interactions.
-* **PCB Defect Detection:** Leveraged computer vision and Azure services for industrial quality control.
-* **Fatigue Monitoring:** IoT-based solution using ML to monitor human fatigue levels.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>💬 VZone-Chat</h4>
+      <p>A communication tool developed to facilitate seamless interactions.</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🔍 PCB Defect Detection</h4>
+      <p>Leveraged computer vision and Azure services for industrial quality control.</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>😴 Fatigue Monitoring</h4>
+      <p>IoT-based solution using ML to monitor human fatigue levels.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,8 +135,25 @@ I am a seasoned **ML Engineer and Consultant** with over 8 years of experience i
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshm35/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaneshM35)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganeshm35/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/GaneshM35">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
-*“Turning complex requirements into scalable, auditable solutions.”*
+
+<p align="center">
+  <i>"Turning complex requirements into scalable, auditable solutions."</i>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=GaneshM35&color=blueviolet&style=flat-square&label=Profile%20Views">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=GaneshM35&color=blue&style=flat-square&label=Profile%20Views">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=GaneshM35&color=blue&style=flat-square&label=Profile%20Views">
+  </picture>
+</p>
