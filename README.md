@@ -60,9 +60,10 @@ I am a seasoned **ML Engineer and Consultant** with over 8 years of experience i
 
 ### 📈 GitHub Stats
 
-| ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaneshM35&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshM35&layout=compact&theme=radical) | ![Github Streak](https://streak-stats.demolab.com?user=GaneshM35) | 
+| ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM35) | ![Metrics](https://github.com/GaneshM35/GaneshM35/blob/main/github-metrics.svg) |
+| --- | --- |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GaneshM35&theme=github-light) | ![GitHub Streak](https://streak-stats.demolab.com?user=GaneshM35) |
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM35
 
 | ------------- | ------------- |
 
