@@ -9,6 +9,34 @@ I am a seasoned **ML Engineer and Consultant** with over 8 years of experience i
 
 ---
 
+
+## 🚀 What I'm Currently Working On
+
+### 📋 AI-Powered Regulatory Compliance Platform
+
+An enterprise-grade full-stack regulatory compliance management system featuring AI-powered automation:
+
+| Module | Description |
+|--------|-------------|
+| **🔍 ReguLens** | AI-driven regulatory document analysis and insights extraction |
+| **🤖 Audit Genie** | Automated audit policy analysis and compliance checking |
+| **💬 Ask LIA** | Interactive AI assistant for compliance queries |
+| **📊 Nostro Forecasting** | ML-based balance predictions for banking operations |
+| **🏦 KYB Workflows** | Know Your Business verification and due diligence |
+| **📈 VC Deal Screening** | Investment pipeline and deal management |
+| **🔐 Security Compliance** | Compliance dashboard and monitoring |
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss)
+![AWS](https://img.shields.io/badge/AWS-ECS-FF9900?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker)
+
+---
+
 ## 🧠 What I Work On
 
 <table>
